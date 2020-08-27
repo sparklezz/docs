@@ -1,0 +1,10 @@
+[book]
+title = "sparklezz documentation"
+authors = ["packmen"]
+description = "this is a test documentation"
+language = "en"
+src = "src"
+
+[output.html]
+mathjax-support = true 
+default-theme = "rust"
